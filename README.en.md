@@ -49,6 +49,7 @@ export default defineConfig({
 })
 ```
 ## Resources for Learning Electron
-
+本示例是利用electorn官方的模板 + vue-element-plus-admin打包后的dist包
+dist包就是大家真实需要打包的项目文件可自行替换成自己的项目文件。
 - [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
 - [Electron Fiddle](https://electronjs.org/fiddle) - Electron Fiddle, an app to test small Electron experiments
