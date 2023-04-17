@@ -1,0 +1,28 @@
+{
+	"name": "electron-builder-templete",
+	"version": "1.0.0",
+	"description": "A minimal Electron application",
+	"main": "main.js",
+	"scripts": {
+		"start": "electron .",
+		"electron:build": "electron-builder build --config electron-builder.json"
+	},
+	"electronDownload": {
+		"mirror": "https://npm.taobao.org/mirrors/electron/"
+	},
+	"repository": "https://github.com/electron/electron-quick-start",
+	"keywords": [
+		"Electron",
+		"quick",
+		"start",
+		"tutorial",
+		"demo"
+	],
+	"author": "GitHub",
+	"license": "CC0-1.0",
+	"devDependencies": {
+		"electron": "^24.1.1",
+		"electron-builder": "^20.38.5"
+	},
+	"dependencies": {}
+}
