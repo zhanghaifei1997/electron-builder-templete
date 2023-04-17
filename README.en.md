@@ -17,7 +17,7 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-builder-templete
+git clone https://github.com/zhanghaifei1997/electron-builder-templete.git
 
 # Go into the repository
 cd electron-builder-templete

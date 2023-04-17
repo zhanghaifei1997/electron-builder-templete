@@ -19,7 +19,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-builder-templete
+git clone https://github.com/zhanghaifei1997/electron-builder-templete.git
 
 # Go into the repository
 cd electron-builder-templete

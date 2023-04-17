@@ -10,7 +10,7 @@
 	"electronDownload": {
 		"mirror": "https://npm.taobao.org/mirrors/electron/"
 	},
-	"repository": "https://github.com/electron/electron-quick-start",
+	"repository": "https://github.com/zhanghaifei1997/electron-builder-templete.git",
 	"keywords": [
 		"Electron",
 		"quick",
